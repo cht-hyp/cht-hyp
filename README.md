@@ -31,7 +31,7 @@
 - **人工智能基础**：模拟退火、蚁群算法、蜂群算法、遗传算法、简单神经网络原理，以及基础的数学最优化方法
 
 #### 常用工具
-VS Code、Git、Jupyter Notebook、Hugging Face
+VS Code、Git
 
 ---
 
@@ -121,7 +121,7 @@ A passionate learner exploring the intersection of **Computer Vision** and **Art
 - **AI Fundamentals**: simulated annealing, ant colony, bee colony, genetic algorithms, basic neural network principles, and fundamental mathematical optimization methods
 
 #### Tools I Use
-VS Code, Git, Jupyter Notebook, Hugging Face
+VS Code, Git
 
 ---
 
