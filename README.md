@@ -10,8 +10,8 @@
 
 一个热爱学习、正在**计算机视觉**和**人工智能**领域摸索的学习者。  
 
-当前在做：一个 **CV 项目**（目前还在进行中，简单但有意义）
-下一步目标：学习**前后端开发**（目前是新手，但充满好奇）
+当前在做：一个 **CV 项目**（进行中）
+下一步目标：学习**前后端开发**（目前是新手）
 
 ---
 
@@ -21,7 +21,7 @@
 - **C / C++** – 掌握基础语法，能实现简单算法
 - **Python** – 机器学习 / CV 实验的主力语言
 
-#### 核心理论基础
+#### 相关理论基础
 - **数据结构与算法**：链表、队列、栈、树、图等常见结构
 - **计算机网络**：OSI 分层模型、TCP/UDP、IP、HTTP 等基本概念
 - **模式识别与机器学习**：
@@ -100,8 +100,8 @@ Welcome to my GitHub profile. This is where I document my journey from zero to o
 
 A passionate learner exploring the intersection of **Computer Vision** and **Artificial Intelligence**.
 
-- Currently working on: a **CV project** (still in progress, simple but meaningful)
-- Next goal: dive into **full‑stack development** (a complete beginner, but excited)
+- Currently working on: a simple **CV project** (still in progress)
+- Next goal: dive into **full‑stack development** (a complete beginner)
 
 ---
 
